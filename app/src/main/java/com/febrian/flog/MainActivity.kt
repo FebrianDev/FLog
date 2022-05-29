@@ -10,6 +10,9 @@ class MainActivity : AppCompatActivity() {
 
         Flog.v("Hello Verbose")
         Flog.d("Hello Debug")
+        Flog.i("Hello Info")
+        Flog.w("Hello Warn")
+        Flog.e("Hello Error")
 
     }
 }
