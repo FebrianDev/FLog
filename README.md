@@ -1,5 +1,5 @@
 # FLog
-Flog is a simple log library for Android
+FLog is a simple log library for Android
 
 ## Installation
 
@@ -26,7 +26,7 @@ Then sync gradle build files.
 
 ## Usage
 
-Once installed, you can add the Flog from within the context of your MainActivity like so:
+Once installed, you can add the FLog from within the context of your MainActivity like so:
 
 ```kotlin
 // Test Flog
